@@ -10,3 +10,4 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
 themeVariant = [ "relearn-dark" ]
 showVisitedLinks = true
+collapsibleMenu = true

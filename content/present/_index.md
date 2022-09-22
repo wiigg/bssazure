@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "4. Present proposal"
+title = "Present proposal"
 weight = 5
 +++
 

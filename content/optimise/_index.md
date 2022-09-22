@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "3. Optimise architecture"
+title = "Optimise architecture"
 weight = 4
 +++
 
