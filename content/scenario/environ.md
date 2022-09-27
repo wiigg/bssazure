@@ -1,7 +1,7 @@
 ---
 title: "Current environment"
 date: 2022-09-22T15:11:42+01:00
-draft: true
+draft: false
 weight: 3
 ---
 
