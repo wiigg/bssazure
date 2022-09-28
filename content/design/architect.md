@@ -14,7 +14,7 @@ Requirements:
 - Include candidate roadmap components and explain which will be introduced to the current architectural landscape.
 - Resolve the changes across the architecture landscape: what will be removed, retired and/or maintained.
 
-{{% notice style="note" %}}
+{{% notice style="tip" %}}
 You can use PowerPoint or any other tool: Visio, [Draw.io](https://app.diagrams.net/), [LucidChart](https://www.lucidchart.com/pages/landing/flowchart-software) or [Cacoo](https://cacoo.com/).
 {{% /notice %}}
 
