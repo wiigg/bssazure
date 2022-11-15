@@ -3,7 +3,9 @@ title: "Welcome"
 date: 2022-09-27T23:21:33+01:00
 draft: false
 ---
-Welcome to the Building Sustainable Solutions on Azure, also known as BSS on Azure, challenge! 
+Welcome to the Building Sustainable Solutions on Azure, also known as BSS on Azure, challenge!
+
+![Event](images/event-banner.jpg "event banner")
 
 Use the options on the left side of the page or arrows at the top to navigate through the content.
 

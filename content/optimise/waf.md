@@ -17,10 +17,18 @@ weight: 1
     2. Does the team solution follow best practices and patterns? 
     3. How do we confirm this? 
 - Build the following slides for the final presentation (Step 4).
-    - Confirmation the proposed solution architecture follows best practices and patterns.
-    - Description of how this confirmation is done. 
+    - Confirmation that the proposed solution is following best practices and patterns for sustainability and other measures.
+    - Description of how this confirmation is done.
+    - Summary of the design methodology that your solution will implement to measure, track, and optimise energy usage and emissions over time.
 
 ##### WAF assessment questions
+###### Sustainability
+1. What are the common challenges when it comes to designing sustainable workloads in the cloud?
+2. How does sustainability overlap with the core pillars of the Well-Architected Framework?
+3. How can the hosted application itself be designed for sustainability?
+4. What platform decisions can you make to reduce the emissions profile of the workload?
+5. What tools can be used to track the ongoing carbon impact? Are there policies and processes that can be put in place by the organisation to keep them in check?
+
 ###### Cost optimization
 1. What Azure tool can you use to estimate the overall costs of your solutions?
 2. What Azure tool can you use to identify opportunities to reduce overall cost?
@@ -44,6 +52,6 @@ weight: 1
 ###### Security
 1. What Azure tool can you use to provide prescriptive best practices and recommendations to help improve the security of workloads, data, and services on Azure?
 2. How can Azure improve the regulatory compliance controls in your organization?
-3. How does identity and access control work in Azure?
-4. How can Azure access other Azure services securely?
-5. What connectivity options exist for Azure?
+3. How can Azure access other Azure services securely?
+4. What connectivity options exist for Azure?
+5. Can security measures be taken to mitigate carbon impact? If so, which measures?
