@@ -7,7 +7,7 @@ Welcome to the Building Sustainable Solutions on Azure, also known as BSS on Azu
 
 ![Event](images/event-banner.jpg "event banner")
 
-Use the options on the left side of the page or arrows at the top to navigate through the content.
+Use the options on the left menu or arrows at the top of the page to navigate through the content.
 
 {{% notice style="note" %}}
 This workshop is best experienced through an interactive Microsoft-led event. However, we have made available the main content to everyone in case you wish to organise your own.
