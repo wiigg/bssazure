@@ -23,6 +23,10 @@ weight: 1
 
 ##### WAF assessment questions
 ###### Sustainability
+{{% notice style="tip" %}}
+Consider running through the well-architected [sustainability workload assessment](https://learn.microsoft.com/en-us/assessments/?mode=pre-assessment&id=a24b1079-29a4-4d22-b678-376e84884f76&session=3e0a9280-3575-4b5d-9fd6-9d0c3b9a16ee) to help with this section.
+{{% /notice %}}
+
 1. What are the common challenges when it comes to designing sustainable workloads in the cloud?
 2. How does sustainability overlap with the core pillars of the Well-Architected Framework?
 3. How can the hosted application itself be designed for sustainability?
