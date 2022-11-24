@@ -5,7 +5,7 @@ draft: false
 ---
 Welcome to the Building Sustainable Solutions on Azure, also known as BSS on Azure, challenge!
 
-![Event](images/event-banner.jpg "event banner")
+![Event](/bssazure/images/event-banner.jpg "event banner")
 
 Use the options on the left menu or arrows at the top of the page to navigate through the content.
 
