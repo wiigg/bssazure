@@ -7,7 +7,7 @@ weight: 1
 
 The consequences of climate change are increasingly apparent, from wildfires to devastating flooding; and the scientific consensus is clear—to avert the worst effects of the rapidly changing climate, the world needs to transition to a net zero carbon emissions economy by 2050.
 
-In this 3x3 (three hours a day for three days) virtual workshop, you will learn about **building sustainable solutions on Azure** and how they can be designed with compliance, governance, and security practices in mind.
+In this workshop, you will learn about **building sustainable solutions on Azure** and how they can be designed with compliance, governance, and security practices in mind.
 
 You will work in small groups on a real-life customer scenario that simulates the format of an **Architecture Design Session (ADS)**. You will create and design solutions using Azure as well as bring engagements from the commit to realization phase.
 
