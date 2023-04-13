@@ -21,3 +21,12 @@ There are many different types of learning programs here at Microsoft including 
 This is a technical application workshop with a focus on experiential group learning and collaboration with your peers to solve a customer business problem.  You will be strategizing solution considerations like WAF to design a robust recommended solution architecture to meet the customer’s needs.
 
 It is not a hands-on lab or a lecture-based course. The Partner Solution Accelerator Hackathon, MCTs, OpenHacks, etc. are all great follow-on trainings you can consider to continue and extend your learning on this topic afterward.
+
+### Contributors
+- [Danny Wigg](https://github.com/wiigg)
+- Sergio Carrilho
+- [Luke Fussell](https://github.com/lufussel)
+
+### Reviewers
+- [George Wood](https://github.com/goazureit)
+- [Paul Henwood](https://github.com/PHenwood)
