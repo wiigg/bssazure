@@ -1,5 +1,5 @@
 # Building Sustainable Solutions on Azure
-Learn to design sustainable solutions on Azure with compliance, governance, and security best practices in this hands-on workshop.
+Learn to design sustainable solutions on Azure with compliance, governance, and security best practices in this applied and experiential workshop.
 
 ## :zap: Quick Start
 A live version of the workshop is available at [wiigg.dev/bssazure](https://www.wiigg.dev/bssazure/).
