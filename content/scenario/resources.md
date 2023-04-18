@@ -9,3 +9,5 @@ weight: 7
 - [Azure Sustainability](https://azure.microsoft.com/en-gb/global-infrastructure/sustainability/)
 - [The Carbon Benefits of Cloud Computing: a Study of the Microsoft Cloud](https://www.microsoft.com/en-us/download/details.aspx?id=56950)
 - [Microsoft Sustainability Learning Center](https://www.microsoft.com/en-us/sustainability/learning-center)
+- [Azure Global Infrastructure Experience](https://datacenters.microsoft.com/globe/explore)
+- [Microsoft Datacenter Sustainability Fact Sheets](https://datacenters.microsoft.com/globe/fact-sheets)
