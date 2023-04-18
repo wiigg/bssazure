@@ -30,3 +30,4 @@ It is not a hands-on lab or a lecture-based course. The Partner Solution Acceler
 ### Reviewers
 - [George Wood](https://github.com/goazureit)
 - [Paul Henwood](https://github.com/PHenwood)
+- Cassandra Browning
