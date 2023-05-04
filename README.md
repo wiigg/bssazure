@@ -1,4 +1,4 @@
-## :warning: This repo has migrated to [Azure sustainability](github.com/Azure/sustainability) and is no longer being maintained here :warning:
+## :warning: This repo has migrated to [Azure/sustainability](https://github.com/Azure/sustainability) and is no longer being maintained here :warning:
 
 # Building Sustainable Solutions on Azure
 Learn to design sustainable solutions on Azure with compliance, governance, and security best practices in this applied and experiential workshop.
